@@ -1,0 +1,40 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/chip-8
+chip-8.so
+chip-8.dylib
+chip-8.dll
+chip-8.a
+chip-8.lib
+chip-8-test-*
+*.exe
+*.o
+*.obj
+*.lst
+
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+
+# DUB
+.dub
+docs.json
+__dummy.html
+docs/
+
+# Code coverage
+*.lst

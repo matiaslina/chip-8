@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"matias"
+	],
+	"copyright": "Copyright © 2020, matias",
+	"dependencies": {
+		"bindbc-sdl": "~>0.19.1"
+	},
+	"description": "Chip 8 implementation",
+	"license": "GPL-3.0",
+    "name": "chip-8",
+    "targetType": "executable",
+}
